@@ -7572,9 +7572,9 @@
     "restore": {
       "projectUniqueName": "Pruebas",
       "projectName": "Pruebas",
-      "projectPath": "C:\\Users\\Welmer\\Documents\\UiPath\\Pruebas\\.local",
+      "projectPath": "C:\\Users\\Welmer\\Documents\\UiPath\\RPA_Ejemplos\\.local",
       "packagesPath": "C:\\Users\\Welmer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Welmer\\Documents\\UiPath\\Pruebas\\.local"
+      "outputPath": "C:\\Users\\Welmer\\Documents\\UiPath\\RPA_Ejemplos\\.local"
     },
     "frameworks": {
       "net461": {

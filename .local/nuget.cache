@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gaOMEf+p+edBzepyvBN0q4igTXkLmrw+cu+gRv+sFsIQEoIaUl6w5HbBYMQa0GYHPhWDrVnOd3ZQ++ZrlvU9+g==",
+  "dgSpecHash": "hYe7dg83ym8ftCSt2IhIDsQdzx2lIpQDZxuCqyXqUHTy4mVwcSt9Vnlf2nz4QJi/pS1f+QRLnxWEgFj6Jq1NZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Welmer\\Documents\\UiPath\\Pruebas\\.local\\",
+  "projectFilePath": "C:\\Users\\Welmer\\Documents\\UiPath\\RPA_Ejemplos\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Welmer\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Welmer\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
